@@ -1,0 +1,1113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="shortcut icon" href="img/logo.png.gif"/>
+
+  <title>ACS - Overseas Education & Immagiration Consultants</title>
+
+  <!-- css -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" type="text/css" href="plugins/cubeportfolio/css/cubeportfolio.min.css">
+  <link href="css/nivo-lightbox.css" rel="stylesheet" />
+  <link href="css/nivo-lightbox-theme/default/default.css" rel="stylesheet" type="text/css" />
+  <link href="css/owl.carousel.css" rel="stylesheet" media="screen" />
+  <link href="css/owl.theme.css" rel="stylesheet" media="screen" />
+  <link href="css/animate.css" rel="stylesheet" />
+  <link href="css/style.css" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+
+
+  <!-- boxed bg -->
+  <link id="bodybg" href="bodybg/bg1.css" rel="stylesheet" type="text/css" />
+  <!-- template skin -->
+  <link id="t-colors" href="color/default.css" rel="stylesheet">
+
+  <!-- =======================================================
+    Theme Name: Medicio
+    Theme URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
+    Author: BootstrapMade
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+
+
+  <div id="wrapper">
+
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+      <div class="top-area">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-6 col-md-6">
+              <p class="bold text-left">Monday - Saturday, 10:30 am to 6:30 pm </p>
+            </div>
+            <div class="col-sm-6 col-md-6">
+              <p class="bold text-right">Call us t: 040 66616690 m: +91 8008006690</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container navigation">
+
+        <div class="navbar-header page-scroll">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+          <a class="navbar-brand" href="index.html">
+                    <img src="img/logo.png.gif" alt="" width="150" height="40" />
+                </a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#intro">Home</a></li>
+            <li class="dropdown">
+              <a href="services.html" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="services.html#english training">English Training</a></li>
+                <li><a href="services.html#career counselling">Career Counselling</a></li>
+                <li><a href="services.html#education loan">Education Loan</a></li>
+                <li><a href="services.html#visa counselling">Visa Counselling</a></li>
+              </ul>
+            </li>
+            <li><a href="#study">Study</a></li>
+    <!--    <li><a href="#work">Work</a></li>   -->
+            <li><a href="#countries">Countries</a></li>
+    <!--    <li><a href="#pricing">Pricing</a></li>   -->
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="badge custom-badge red pull-right">Extra</span>More <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="index.html">Home CTA</a></li>
+                <li><a href="index-form.html">Home Form</a></li>
+                <li><a href="index-video.html">Home video</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container -->
+    </nav>
+
+    <!-- Section: intro -->
+    <section id="intro" class="intro">
+      <div class="intro-content">
+        <div class="container">
+          <div class=row>
+            
+            <div class=col-md-6>
+              <div class="wow fadeInDown" data-wow-offset="0" data-wow-delay="0.1s">
+                <h5 class="h-ultra"> Overseas Education & Immigration Consultants </h5>
+              </div>
+              <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.1s">        
+                <h6 class="h-light">Providing <span class="color"> best Consultancy Services </span> from 2008
+                  </h6>
+              </div> &nbsp;
+
+                <div class="col-md-12">
+                  <div class="well well-trans">
+                    <div class="wow fadeInRight" data-wow-delay="0.1s">
+
+                      <ul class="lead-list">
+                        <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list"><strong>Thinking of education Abroad</strong><br />ACS helps you at every stage from Course Selection...</span></li>
+                        <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list"><strong>Work Overseas or to Migrate</strong><br />From CV Prepation to finding Sponsor for Work</span></li>
+                        <li><span class="fa fa-check fa-2x icon-success"></span> <span class="list"><strong>Want to visit any Country</strong><br />ACS makes sure you have a relaxed holiday...</span></li>
+                      </ul>
+
+                      <p class="text-right wow bounceIn" data-wow-delay="0.4s">
+                        <a href="#" class="btn btn-skin btn-lg">Learn more <i class="fa fa-angle-right"></i></a>
+                      </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-6">
+              <div class="form-wrapper">
+                <div class="wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.2s">
+
+                  <div class="panel panel-skin">
+                    <div class="panel-heading">
+                      <h3 class="panel-title"><span class="fa fa-pencil-square-o"></span> Make an appoinment <small>(It's free!)</small></h3>
+                    </div>
+                    <div class="panel-body">
+                      <div id="sendmessage">Your message has been sent. Thank you!</div>
+                      <div id="errormessage"></div>
+                    <form action="" method="post" role="form" class="contactForm lead">
+                        <div class="row">
+                          <div class="col-xs-6 col-sm-6 col-md-6">
+                            <div class="form-group">
+                              <label>First Name</label>
+                              <input type="text" name="first_name" id="first_name" class="form-control input-md" data-rule="minlen:3" data-msg="Please enter at least 3 chars">
+                              <div class="validation"></div>
+                            </div>
+                          </div>
+                          <div class="col-xs-6 col-sm-6 col-md-6">
+                            <div class="form-group">
+                              <label>Last Name</label>
+                              <input type="text" name="last_name" id="last_name" class="form-control input-md" data-rule="minlen:3" data-msg="Please enter at least 3 chars">
+                              <div class="validation"></div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <div class="row">
+                          <div class="col-xs-6 col-sm-6 col-md-6">
+                            <div class="form-group">
+                              <label>Email</label>
+                              <input type="email" name="email" id="email" class="form-control input-md" data-rule="email" data-msg="Please enter a valid email">
+                              <div class="validation"></div>
+                            </div>
+                          </div>
+                          <div class="col-xs-6 col-sm-6 col-md-6">
+                            <div class="form-group">
+                              <label>Phone number</label>
+                              <input type="text" name="phone" id="phone" class="form-control input-md" data-rule="required" data-msg="The phone number is required">
+                              <div class="validation"></div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <input type="submit" value="Submit" class="btn btn-skin btn-block btn-lg">
+
+                        <p class="lead-footer">* We'll contact you by phone & email later</p>
+
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+    <!-- /Section: intro -->
+
+    <!-- Section: boxes -->
+    <section class="home-section paddingtop-150">  
+
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-3 col-md-3">
+            <div class="wow fadeInUp" data-wow-delay="0.2s">
+              <div class="box text-center">
+
+                <i class="fas fa-chalkboard-teacher fa-3x circled bg-skin"></i>
+                <h4 class="h-bold">English Training</h4>
+                <p>
+                  Most of the universities require all the students to prove the required level of English.
+                </p>
+                 
+                      <a href="services.html#english training" class="btn btn-skin btn-lg">Learn more </a>
+                  
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-3 col-md-3">
+            <div class="wow fadeInUp" data-wow-delay="0.2s">
+              <div class="box text-center">
+
+                <i class="fa fa-list-alt fa-3x circled bg-skin"></i>
+                <h4 class="h-bold">Career Counselling</h4>
+                <p>
+                  Professionals want to migrate to foreign country either for IMMIGRATION or to WORK.
+                </p>
+                 <a href="services.html#career counselling" class="btn btn-skin btn-lg">Learn more</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-3 col-md-3">
+            <div class="wow fadeInUp" data-wow-delay="0.2s">
+              <div class="box text-center">
+                <i class="fas fa-university fa-3x circled bg-skin"></i>
+                <h4 class="h-bold">Education Loan</h4>
+                <p>
+                  The banks generally grant education loans for Tuition fees, Library fees & Living expenses.
+                </p>
+                <a href="services.html#education loan" class="btn btn-skin btn-lg">Learn more</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-3 col-md-3"> 
+            <div class="wow fadeInUp" data-wow-delay="0.2s">
+              <div class="box text-center">
+
+                <i class="fab fa-cc-visa fa-3x circled bg-skin"></i>
+                <h4 class="h-bold">VISA Counselling</h4>
+                <p>
+                  Exact Visa fee will be informed to the client, which is to be paid by him.
+                </p>
+                <a href="services.html#visa counselling" class="btn btn-skin btn-lg">Learn more</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+<br> <br>
+    </section> 
+    <!-- /Section: boxes -->
+<!--
+
+    <section id="callaction" class="home-section paddingtop-40">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="callaction bg-gray">
+              <div class="row">
+                <div class="col-md-8">
+                  <div class="wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="cta-text">
+                      <h3>In an emergency? Need help now?</h3>
+                      <p>Lorem ipsum dolor sit amet consectetur adipiscing elit uisque interdum ante eget faucibus. </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="wow lightSpeedIn" data-wow-delay="0.1s">
+                    <div class="cta-btn">
+                      <a href="#" class="btn btn-skin btn-lg">Book an appoinment</a> 
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>  
+    </section> --> 
+
+
+    <!-- Section: services -->
+    <section id="study" class="callaction bg-gray">
+
+      <div class="container">
+
+        <div class="row">
+          <div class="col-sm-6 col-md-6">
+            <div class="wow fadeInUp" data-wow-delay="0.1s">
+              <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Facs.hyd.studyabroad%2Fposts%2F2216620625072321&width=500" width="500" height="450" scrolling="yes" frameborder="1" allowTransparency="true" allow="encrypted-media"></iframe>  
+            </div>
+          </div>
+          <div class="col-sm-3 col-md-3">
+
+            <div class="wow fadeInRight" data-wow-delay="0.1s">
+              <div class="service-box">
+                
+                <div class="service-desc">
+                  <a href="#"> <h5 class="h-bold">Universities</h5> </a>
+                  <p>Vestibulum tincidunt enim in pharetra malesuada.</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="wow fadeInRight" data-wow-delay="0.2s">
+              <div class="service-box">
+                
+                <div class="service-desc">
+                  <a href="#testimonial"> <h5 class="h-bold">Success Stories</h5> </a>
+                  <p>Vestibulum tincidunt enim in pharetra malesuada.</p>
+                </div>
+              </div>
+            </div>
+            <div class="wow fadeInRight" data-wow-delay="0.3s">
+              <div class="service-box">
+                
+                <div class="service-desc">
+                  <a href="#"> <h5 class="h-bold">Useful Links</h5> </a>
+                  <p>Vestibulum tincidunt enim in pharetra malesuada.</p>
+                </div>
+              </div>
+            </div>
+
+
+          </div>
+          <div class="col-sm-3 col-md-3">
+
+            <div class="wow fadeInRight" data-wow-delay="0.1s">
+              <div class="service-box">
+                
+                <div class="service-desc">
+                  <a href="#"> <h5 class="h-bold">University Visit</h5> </a>
+                  <p>Vestibulum tincidunt enim in pharetra malesuada.</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="wow fadeInRight" data-wow-delay="0.2s">
+              <div class="service-box">
+                
+                <div class="service-desc">
+                  <a href="#"> <h5 class="h-bold">Articles</h5> </a>
+                  <p>Vestibulum tincidunt enim in pharetra malesuada.</p>
+                </div>
+              </div>
+            </div>
+           <!-- <div class="wow fadeInRight" data-wow-delay="0.3s">
+              <div class="service-box">
+                
+                <div class="service-desc">
+                  <h5 class="h-light">Sleep Center</h5>
+                  <p>Vestibulum tincidunt enim in pharetra malesuada.</p>
+                </div>
+              </div>
+            </div> -->
+
+          </div>
+
+        </div>
+      </div>
+    </section>
+    <!-- /Section: services -->
+
+
+    <!-- Section: team -->
+<!--    <section id="work" class="home-section bg-gray paddingbot-60">
+      <div class="container marginbot-50">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <div class="wow fadeInDown" data-wow-delay="0.1s">
+              <div class="section-heading text-center">
+                <h2 class="h-bold">Doctors</h2>
+                <p>Ea melius ceteros oportere quo, pri habeo viderer facilisi ei</p>
+              </div>
+            </div>
+            <div class="divider-short"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+
+            <div id="filters-container" class="cbp-l-filters-alignLeft">
+              <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">All (
+                <div class="cbp-filter-counter"></div>)</div>
+              <div data-filter=".cardiologist" class="cbp-filter-item">Cardiologist (
+                <div class="cbp-filter-counter"></div>)</div>
+              <div data-filter=".psychiatrist" class="cbp-filter-item">Psychiatrist (
+                <div class="cbp-filter-counter"></div>)</div>
+              <div data-filter=".neurologist" class="cbp-filter-item">Neurologist (
+                <div class="cbp-filter-counter"></div>)</div>
+            </div>
+
+            <div id="grid-container" class="cbp-l-grid-team">
+              <ul>
+                <li class="cbp-item psychiatrist">
+                  <a href="doctors/member1.html" class="cbp-caption cbp-singlePage">
+                    <div class="cbp-caption-defaultWrap">
+                      <img src="img/team/1.jpg" alt="" width="100%">
+                    </div>
+                    <div class="cbp-caption-activeWrap">
+                      <div class="cbp-l-caption-alignCenter">
+                        <div class="cbp-l-caption-body">
+                          <div class="cbp-l-caption-text">VIEW PROFILE</div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="doctors/member1.html" class="cbp-singlePage cbp-l-grid-team-name">Alice Grue</a>
+                  <div class="cbp-l-grid-team-position">Psychiatrist</div>
+                </li>
+                <li class="cbp-item cardiologist">
+                  <a href="doctors/member2.html" class="cbp-caption cbp-singlePage">
+                    <div class="cbp-caption-defaultWrap">
+                      <img src="img/team/2.jpg" alt="" width="100%">
+                    </div>
+                    <div class="cbp-caption-activeWrap">
+                      <div class="cbp-l-caption-alignCenter">
+                        <div class="cbp-l-caption-body">
+                          <div class="cbp-l-caption-text">VIEW PROFILE</div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="doctors/member2.html" class="cbp-singlePage cbp-l-grid-team-name">Joseph Murphy</a>
+                  <div class="cbp-l-grid-team-position">Cardiologist</div>
+                </li>
+                <li class="cbp-item cardiologist">
+                  <a href="doctors/member3.html" class="cbp-caption cbp-singlePage">
+                    <div class="cbp-caption-defaultWrap">
+                      <img src="img/team/3.jpg" alt="" width="100%">
+                    </div>
+                    <div class="cbp-caption-activeWrap">
+                      <div class="cbp-l-caption-alignCenter">
+                        <div class="cbp-l-caption-body">
+                          <div class="cbp-l-caption-text">VIEW PROFILE</div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="doctors/member3.html" class="cbp-singlePage cbp-l-grid-team-name">Alison Davis</a>
+                  <div class="cbp-l-grid-team-position">Cardiologist</div>
+                </li>
+                <li class="cbp-item neurologist">
+                  <a href="doctors/member4.html" class="cbp-caption cbp-singlePage">
+                    <div class="cbp-caption-defaultWrap">
+                      <img src="img/team/4.jpg" alt="" width="100%">
+                    </div>
+                    <div class="cbp-caption-activeWrap">
+                      <div class="cbp-l-caption-alignCenter">
+                        <div class="cbp-l-caption-body">
+                          <div class="cbp-l-caption-text">VIEW PROFILE</div>
+                        </div>
+                      </div>
+                    </div>
+                  </a>
+                  <a href="doctors/member4.html" class="cbp-singlePage cbp-l-grid-team-name">Adam Taylor</a>
+                  <div class="cbp-l-grid-team-position">Neurologist</div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section> -->
+    <!-- /Section: team --> 
+
+    <!-- Section: works --> 
+    <section id="countries" class="home-section paddingbot-60"> 
+      <div class="container marginbot-50"> 
+        <div class="row"> 
+          <div class="col-lg-8 col-lg-offset-2">
+            <div class="wow fadeInDown" data-wow-delay="0.1s">
+              <div class="section-heading text-center"> 
+                <h2 class="h-bold">Study Destiny</h2>
+                <p> Top 4 Study Abroad Destinations for Indian Students</p>
+              </div>
+            </div>
+            <div class="divider-short"></div>
+          </div>
+        </div>
+      </div>
+
+       <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 col-lg-12">
+            <div class="wow bounceInUp" data-wow-delay="0.2s">
+              <div id="owl-works" class="owl-carousel">
+                
+                <div class="col-lg-12 col-md-100 col-sm-6 col-xs-12">
+                  <div class="hovereffect">
+                    <img class="img-responsive studydestiny" src="img/photo/flag/uk.jpg" alt="" width="100%" height="150">
+                      <div class="overlay">
+                        <h2>UK</h2> 
+                        <a class="info" href="study-in-uk.html">Read more</a>
+                      </div>
+                  </div>
+                </div>
+                
+                <div class="col-lg-12 col-md-100 col-sm-6 col-xs-12">
+                  <div class="hovereffect">
+                    <img class="img-responsive studydestiny" src="img/photo/flag/usa.jpg" alt="" width="100%" height="150">
+                      <div class="overlay">
+                        <h2>USA</h2> 
+                        <a class="info" href="study-in-usa.html">Read more</a>
+                      </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-12 col-md-100 col-sm-6 col-xs-12">
+                  <div class="hovereffect">
+                    <img class="img-responsive studydestiny" src="img/photo/flag/canada.jpg" alt="" width="100%" height="150">
+                      <div class="overlay">
+                        <h2>Canada</h2> 
+                        <a class="info" href="study-in-canada.html">Read more</a>
+                      </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-12 col-md-100 col-sm-6 col-xs-12">
+                  <div class="hovereffect">
+                    <img class="img-responsive studydestiny" src="img/photo/flag/australia.png" alt="" width="100%" height="150">
+                      <div class="overlay">
+                        <h2>AUSTRALIA</h2> 
+                        <a class="info" href="study-in-australia.html">Read more</a>
+                      </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-12 col-md-100 col-sm-6 col-xs-12">
+                  <div class="hovereffect">
+                    <img class="img-responsive studydestiny" src="img/photo/flag/malaysia.jpg" alt="" width="100%" height="150">
+                      <div class="overlay">
+                        <h2>MALAYSIA</h2> 
+                        <a class="info" href="study-in-malaysia.html">Read more</a>
+                      </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-12 col-md-100 col-sm-6 col-xs-12">
+                  <div class="hovereffect">
+                    <img class="img-responsive studydestiny" src="img/photo/flag/uae.jpg" alt="">
+                      <div class="overlay">
+                        <h2>UAE</h2> 
+                        <a class="info" href="study-in-uae.html">Read more</a>
+                      </div>
+                    </div>
+                </div>
+
+               <div class="col-lg-12 col-md-100 col-sm-6 col-xs-12">
+                  <div class="hovereffect">
+                    <img class="img-responsive studydestiny" src="img/photo/flag/holland.jpg" alt="">
+                      <div class="overlay">
+                        <h2>HOLLAND</h2> 
+                        <a class="info" href="study-in-holland.html">Read more</a>
+                      </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-12 col-md-100 col-sm-6 col-xs-12">
+                  <div class="hovereffect">
+                    <img class="img-responsive studydestiny" src="img/photo/flag/new zealand.png" alt="">
+                      <div class="overlay">
+                        <h2>NEW ZEALAND</h2> 
+                        <a class="info" href="study-in-new zealand.html">Read more</a>
+                      </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-12 col-md-100 col-sm-6 col-xs-12">
+                  <div class="hovereffect">
+                    <img class="img-responsive studydestiny" src="img/photo/flag/china.jpg" alt="">
+                      <div class="overlay">
+                        <h2>CHINA</h2> 
+                        <a class="info" href="study-in-china.html">Read more</a>
+                      </div>
+                    </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /Section: works -->
+
+
+    <!-- Section: testimonial -->
+    <section id="testimonial" class="home-section paddingbot-60 parallax">
+
+      <div class="carousel-reviews broun-block">
+        <div class="container">
+          <div class="row">
+            <div id="carousel-reviews" class="carousel" data-ride="carousel">
+
+              <div class="carousel-inner">
+                <div class="item active">
+                  <div class="col-md-4 col-sm-6">
+                    <div class="block-text rel zmin">
+                      <a title="" href="#">UK, Student Visa</a>
+                      <div class="mark">My rating: <span class="rating-input"><span data-value="0" class="glyphicon glyphicon-star"></span><span data-value="1" class="glyphicon glyphicon-star"></span><span data-value="2" class="glyphicon glyphicon-star"></span><span data-value="3"
+                          class="glyphicon glyphicon-star"></span><span data-value="4" class="glyphicon glyphicon-star"></span><span data-value="5" class="glyphicon glyphicon-star"></span> </span>
+                      </div>
+                      <p>If you're looking for consultant regarding your student visa and guidance, just go with Azza Education Overseas without hesitation. Trust me , you wont regret it. They been helpful through out your process and stay in your contact even after your process.</p>
+                      <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+                    </div>
+                    <div class="person-text rel text-light">
+                      <img src="img/testimonials/11.jpg" alt="" class="person img-circle" />
+                      <a title="" href="#">Y J N S Kumar</a>
+                      <span>MSc Computing & Technology </span>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 hidden-xs">
+                    <div class="block-text rel zmin">
+                      <a title="" href="#">UK, Student Visa</a>
+                      <div class="mark">My rating: <span class="rating-input"><span data-value="0" class="glyphicon glyphicon-star"></span><span data-value="1" class="glyphicon glyphicon-star"></span><span data-value="2" class="glyphicon glyphicon-star"></span><span data-value="3"
+                          class="glyphicon glyphicon-star"></span><span data-value="4" class="glyphicon glyphicon-star-empty"></span><span data-value="5" class="glyphicon glyphicon-star-empty"></span> </span>
+                      </div>
+                      <p>I am greatly thankful to "AZZA Educvisa ofation Consultancy" for their invaluable guidance and support to achieve my goal of getting visa of UK. I experienced that team members are very professionals and competent in dealing with difficult situation.                                       </p>
+                      <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+                    </div>
+                    <div class="person-text rel text-light">
+                      <img src="img/testimonials/22.jpg" alt="" class="person img-circle" />
+                      <a title="" href="#">Afreen Fatima</a>
+                      <span>Master of Business Administration</span>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 hidden-sm hidden-xs">
+                    <div class="block-text rel zmin">
+                      <a title="" href="#">UK, Student Visa</a>
+                      <div class="mark">My rating: <span class="rating-input"><span data-value="0" class="glyphicon glyphicon-star"></span><span data-value="1" class="glyphicon glyphicon-star"></span><span data-value="2" class="glyphicon glyphicon-star"></span><span data-value="3"
+                          class="glyphicon glyphicon-star"></span><span data-value="4" class="glyphicon glyphicon-star-empty"></span><span data-value="5" class="glyphicon glyphicon-star-empty"></span> </span>
+                      </div>
+                      <p>I chose Azza due to recommendations from a few friends and saw that people had liked them on my Facebook. I applied for a SET (LR) visa and can say that 100%, When my visa was granted, it was a weight off my shoulders and there was a big party to celebrate.</p>
+                      <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+                    </div>
+                    <div class="person-text rel text-light">
+                      <img src="img/testimonials/33.jpg" alt="" class="person img-circle" />
+                      <a title="" href="#">Raza Abdul Wahab</a>
+                      <span>BSc (Hons) Marketing</span>
+                    </div>
+                  </div>
+                </div> <!--
+                <div class="item">
+                  <div class="col-md-4 col-sm-6">
+                    <div class="block-text rel zmin">
+                      <a title="" href="#">Birth control pills</a>
+                      <div class="mark">My rating: <span class="rating-input"><span data-value="0" class="glyphicon glyphicon-star"></span><span data-value="1" class="glyphicon glyphicon-star"></span><span data-value="2" class="glyphicon glyphicon-star-empty"></span>
+                        <span data-value="3" class="glyphicon glyphicon-star-empty"></span><span data-value="4" class="glyphicon glyphicon-star-empty"></span><span data-value="5" class="glyphicon glyphicon-star-empty"></span> </span>
+                      </div>
+                      <p>Thank you for the outstanding work. An efficient, professional and honest firm. The success of my application for Tier 4 Dependent was down to your...</p>
+                      <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+                    </div>
+                    <div class="person-text rel text-light">
+                      <img src="img/testimonials/44.jpg" alt="" class="person img-circle" />
+                      <a title="" href="#">Lucas Thompson</a>
+                      <span>Austin, Texas</span>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 hidden-xs">
+                    <div class="block-text rel zmin">
+                      <a title="" href="#">Radiology</a>
+                      <div class="mark">My rating: <span class="rating-input"><span data-value="0" class="glyphicon glyphicon-star"></span><span data-value="1" class="glyphicon glyphicon-star"></span><span data-value="2" class="glyphicon glyphicon-star-empty"></span>
+                        <span
+                          data-value="3" class="glyphicon glyphicon-star-empty"></span><span data-value="4" class="glyphicon glyphicon-star-empty"></span><span data-value="5" class="glyphicon glyphicon-star-empty"></span> </span>
+                      </div>
+                      <p>I am quite lucky (or I can say my God had shown me the right place) to have chosen ACS Ltd for my journey for immigration to UK. It was really...</p>
+                      <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+                    </div>
+                    <div class="person-text rel text-light">
+                      <img src="img/testimonials/55.jpg" alt="" class="person img-circle" />
+                      <a title="" href="#">Ella Mentree</a>
+                      <span>Fort Worth, Texas</span>
+                    </div>
+                  </div>
+                  <div class="col-md-4 col-sm-6 hidden-sm hidden-xs">
+                    <div class="block-text rel zmin">
+                      <a title="" href="#">Cervical Lesions</a>
+                      <div class="mark">My rating: <span class="rating-input"><span data-value="0" class="glyphicon glyphicon-star"></span><span data-value="1" class="glyphicon glyphicon-star"></span><span data-value="2" class="glyphicon glyphicon-star"></span><span data-value="3"
+                          class="glyphicon glyphicon-star"></span><span data-value="4" class="glyphicon glyphicon-star"></span><span data-value="5" class="glyphicon glyphicon-star"></span> </span>
+                      </div>
+                      <p>I was looking for a company to represent me. I read the reviews about ACS Ltd and after speaking to them I instructed. My experience with...</p>
+                      <ins class="ab zmin sprite sprite-i-triangle block"></ins>
+                    </div>
+                    <div class="person-text rel text-light">
+                      <img src="img/testimonials/55.jpg" alt="" class="person img-circle" />
+                      <a title="" href="#">Suzanne Adam</a>
+                      <span>Detroit, Michigan</span>
+                    </div>
+                  </div>
+                </div> -->
+
+
+              </div>
+
+              <a class="left carousel-control" href="#carousel-reviews" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                </a>
+              <a class="right carousel-control" href="#carousel-reviews" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /Section: testimonial -->
+
+
+    <!-- Section: pricing -->
+<!-- <section id="pricing" class="home-section bg-gray paddingbot-60">
+      <div class="container marginbot-50">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <div class="wow lightSpeedIn" data-wow-delay="0.1s">
+              <div class="section-heading text-center">
+                <h2 class="h-bold">Consultant packages</h2>
+                <p>Take charge of your health today with our specially designed health packages</p>
+              </div>
+            </div>
+            <div class="divider-short"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-sm-4 pricing-box">
+            <div class="wow bounceInUp" data-wow-delay="0.1s">
+              <div class="pricing-content general">
+                <h2>Basic Fit 1 Package</h2>
+                <h3>$33<sup>.99</sup> <span>/ one time</span></h3>
+                <ul>
+                  <li>Anthropometry (BMI, WH Ratio) <i class="fa fa-check icon-success"></i></li>
+                  <li>Post Examination Review <i class="fa fa-check icon-success"></i></li>
+                  <li>General Screening – Basic <i class="fa fa-check icon-success"></i></li>
+                  <li><del>Health Screening Report</del> <i class="fa fa-times icon-danger"></i></li>
+                </ul>
+
+                <div class="price-bottom">
+                  <a href="#" class="btn btn-skin btn-lg">Purchase</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-4 pricing-box featured-price">
+            <div class="wow bounceInUp" data-wow-delay="0.3s">
+              <div class="pricing-content featured">
+                <h2>Golden Glow Package</h2>
+                <h3>$65<sup>.99</sup> <span>/ one time</span></h3>
+                <ul>
+                  <li>Anthropometry (BMI, WH Ratio) <i class="fa fa-check icon-success"></i></li>
+                  <li>Post Examination Review <i class="fa fa-check icon-success"></i></li>
+                  <li>General Screening – Basic <i class="fa fa-check icon-success"></i></li>
+                  <li>Body Composition Analysis <i class="fa fa-check icon-success"></i></li>
+                  <li>GR Assessment & Scoring <i class="fa fa-check icon-success"></i></li>
+                </ul>
+
+                <div class="price-bottom">
+                  <a href="#" class="btn btn-skin btn-lg">Purchase</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-4 pricing-box">
+            <div class="wow bounceInUp" data-wow-delay="0.2s">
+              <div class="pricing-content general last">
+                <h2>Basic Fit 2 Package</h2>
+                <h3>$47<sup>.99</sup> <span>/ one time</span></h3>
+                <ul>
+                  <li>Anthropometry (BMI, WH Ratio) <i class="fa fa-check icon-success"></i></li>
+                  <li>Post Examination Review <i class="fa fa-check icon-success"></i></li>
+                  <li>General Screening – Regular <i class="fa fa-check icon-success"></i></li>
+                  <li><del>Health Screening Report</del> <i class="fa fa-times icon-danger"></i></li>
+                </ul>
+
+                <div class="price-bottom">
+                  <a href="#" class="btn btn-skin btn-lg">Purchase</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section> -->
+    <!-- /Section: pricing -->
+<!--
+    <section id="partner" class="home-section paddingbot-60">
+      <div class="container marginbot-50">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <div class="wow lightSpeedIn" data-wow-delay="0.1s">
+              <div class="section-heading text-center">
+                <h2 class="h-bold">Our partner</h2>
+                <p>Take charge of your health today with our specially designed health packages</p>
+              </div>
+            </div>
+            <div class="divider-short"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6 col-md-3">
+            <div class="partner">
+              <a href="#"><img src="img/dummy/partner-1.jpg" alt="" /></a>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3">
+            <div class="partner">
+              <a href="#"><img src="img/dummy/partner-2.jpg" alt="" /></a>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3">
+            <div class="partner">
+              <a href="#"><img src="img/dummy/partner-3.jpg" alt="" /></a>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3">
+            <div class="partner">
+              <a href="#"><img src="img/dummy/partner-4.jpg" alt="" /></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section> -->
+
+<footer>
+  <div class="container">
+    <div class="row">      
+      <div class="col-sm-6 col-md-3">
+        <div class="wow fadeInDown" data-wow-delay="0.1s">
+          <div class="widget">
+              <h5>Information</h5>
+              <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Laboratory</a></li>
+                <li><a href="#">Medical treatment</a></li>
+                <li><a href="#">Terms & conditions</a></li>
+              </ul>
+          </div>
+        </div>
+      </div> 
+      <div class="col-sm-6 col-md-3">
+        <div class="wow fadeInDown" data-wow-delay="0.1s">
+          <div class="widget"style="margin-left: 5px;">              
+            <ul>
+              <li class="footer_menu">
+                <span class="fa-stack fa">
+                 <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="far fa-calendar-alt fa-stack-1x fa-inverse"></i>
+                  </span> Monday - Saturday, <span style="margin-left: 42px;">10:30 am to 6:30 pm </span>
+              </li>
+              <li class="footer_menu">
+                <span class="fa-stack fa">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
+                </span> 040 65606690 
+              </li>
+              <li class="footer_menu">
+                <span class="fa-stack fa">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fas fa-mobile-alt fa-stack-1x fa-inverse"></i>
+                </span> +91 8008006690    
+              </li>
+              <li class="footer_menu">
+                <span class="fa-stack fa">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
+                </span> overseas@azza-cs.com
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="wow fadeInDown" data-wow-delay="0.1s">
+          <div class="widget" style="margin-left: 40px;">
+            <h5>Follow us</h5>
+              <ul class="company-social">
+                <li class="social-facebook"><a href="https://www.facebook.com/acs.hyd.studyabroad/"><i class="fab fa-facebook"></i></a></li>
+                <li class="social-twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                <li class="social-google"><a href="#"><i class="fab fa-google-plus"></i></a></li>
+                <li class="social-vimeo"><a href="#"><i class="fab fa-vimeo-square"></i></a></li>
+                <li class="social-dribble"><a href="#"><i class="fab fa-dribbble"></i></a></li>
+              </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="wow fadeInDown" data-wow-delay="0.1s">
+          <div class="widget">
+            <h5>Our location</h5>
+              <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="130" id="gmap_canvas" src="https://maps.google.com/maps?q=Azza%20consultancy&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.emojilib.com">emojilib.com</a></div><style>.mapouter{position:relative;text-align:right;height:130px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:130px;width:300px;}</style></div> <br>
+              <p style="font-size: 13px"> 1<sup>st </sup> Floor, 101/B, Mustafa Towers, Lakdikapul X Road, Opp: HP Petrol Pump, Hyderabad - 04.</p>
+          </div>
+        </div>           
+      </div>
+    </div>
+  </div>
+
+  <div class="container">  
+    <div class="row">
+      <div class="col-sm-6 col-md-1">
+        <div class="" data-wow-delay="0.1s">         
+         </div>
+      </div>
+      <div class="col-sm-6 col-md-2">
+       <div class="" data-wow-delay="0.1s">
+         <div>
+           <h7>About Us</h7>  
+          </div> 
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-2">
+        <div class="" data-wow-delay="0.1s">
+          <div class="">
+               <h7>Services</h7>  
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-2">
+        <div class="" data-wow-delay="0.1s">
+          <div class="">
+               <h7>Countries</h7>  
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-2">
+            <div class="" data-wow-delay="0.1s">
+              <div class="">
+                <h7>Information</h7>  
+              </div>
+            </div>
+      </div>
+      <div class="col-sm-6 col-md-2">
+        <div class="" data-wow-delay="0.1s">
+          <div class="">
+            <h7>Other Links</h7>  
+          </div>
+        </div>
+      </div>         
+    </div>
+
+    <div class="row">
+      <div class="col-md-11">
+        <hr style="border-top: dotted 1px;width:84%;margin-left: 95px;"/>
+      </div>
+    </div>
+
+    <div class="row">  
+      <div class="col-sm-6 col-md-1">
+        <div class="wow fadeInDown" data-wow-delay="0.1s">
+          <div class="widget">        
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-2">
+        <div class="wow fadeInDown" data-wow-delay="0.1s">
+          <div class="widget">      
+            <ul>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="#" style="font-size: 13px ">Profile </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="#" style="font-size: 13px ">Directors Note </a> 
+            </ul>
+          </div>
+        </div>
+      </div>  
+      <div class="col-sm-6 col-md-2">
+        <div class="wow fadeInDown" data-wow-delay="0.1s">
+          <div class="widget">
+            <ul>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="services.html#english training" style="font-size: 13px ">English Training </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="services.html#career counselling" style="font-size: 13px ">Career Counselling </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="services.html#education loan" style="font-size: 13px ">Education loan </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="services.html#visa counselling" style="font-size: 13px ">Visa Counselling </a> <br>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-2">
+        <div class="wow fadeInDown" data-wow-delay="0.1s">
+          <div class="widget">
+            <ul>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="study-in-uk.html" style="font-size: 13px ">UK </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="study-in-usa.html" style="font-size: 13px ">USA </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="study-in-canada.html" style="font-size: 13px ">Canada </a> <br>
+            <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="study-in-australia.html" style="font-size: 13px ">Australia </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="study-in-malaysia.html" style="font-size: 13px ">Malaysia </a> <br>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-2">
+        <div class="wow fadeInDown" data-wow-delay="0.1s">
+          <div class="widget">
+            <ul>
+              <li class="fa fa-angle-right" stylstyle="font-size: 13px "e="font-size: 13px "> </li>
+                <a href="#" style="font-size: 13px ">Universities </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="#" style="font-size: 13px ">University Visit </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="#testimonial" style="font-size: 13px ">Success Stories </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="#" style="font-size: 13px ">Articles </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="#" style="font-size: 13px ">Useful Links </a> <br>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-2">
+        <div class="wow fadeInDown" data-wow-delay="0.1s">
+          <div class="widget">
+            <ul>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="#" style="font-size: 13px ">Contact Us </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="#" style="font-size: 13px ">Site map </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="#" style="font-size: 13px ">Faq's </a> <br>
+              <li class="fa fa-angle-right" style="font-size: 13px "> </li>
+                <a href="#" style="font-size: 13px ">Privacy Policy </a> <br>
+            </ul>
+         </div>
+        </div>
+      </div>          
+      <div class="col-sm-6 col-md-1">
+        <div class="" data-wow-delay="0.1s">             
+        </div>
+      </div> 
+    </div>
+
+    </div>
+  </div>
+      
+<div class="sub-footer">
+  <div class="container">
+    <div class="row">
+      
+      <div class="col-sm-6 col-md-6 col-lg-7">
+        <div class="wow fadeInLeft" data-wow-delay="0.1s">
+          <div class="text-left">
+            <p>&copy2019 Azza Consultancy Services Private Limited. All Right Reserved.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-md-6 col-lg-5">
+        <div class="wow fadeInRight" data-wow-delay="0.1s">
+          <div class="text-right">
+            <div class="credits">
+              <a href="http://www.azza-cs.co.uk/"> Designed by ACS</a> 
+            </div>
+          </div>
+        </div>
+      </div> 
+  
+    </div>
+  </div>
+</div> 
+
+</footer>
+
+  </div>
+  <a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>
+
+  <!-- Core JavaScript Files -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.min.js"></script>
+  <script src="js/wow.min.js"></script>
+  <script src="js/jquery.scrollTo.js"></script>
+  <script src="js/jquery.appear.js"></script>
+  <script src="js/stellar.js"></script>
+  <script src="plugins/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/nivo-lightbox.min.js"></script>
+  <script src="js/custom.js"></script>
+
+</body>
+
+</html>
